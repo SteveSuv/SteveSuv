@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @SteveSuv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Frontend skill
+html,css,js,ts,less,scss,webpack,babel,rollup,react,redux,react-router,recoil,react-native,antd,materialui,node,express,pm2,prisma,dart,flutter,etc.
 
-<!---
-SteveSuv/SteveSuv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn
+https://www.linkedin.cn/incareer/in/taojun-zhang-690794141
+
+wechat
+TaoEarth
+
