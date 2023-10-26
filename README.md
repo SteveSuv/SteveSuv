@@ -32,14 +32,15 @@
 - flutter
 
 # LinkedIn 
-https://www.linkedin.cn/incareer/in/taojun-zhang-690794141
+https://www.linkedin.com/in/taojun-zhang-711218278
 
 # Education
-https://en.wikipedia.org/wiki/Tianjin_University
+[Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) 2016.8 - 2020.7
+
 
 # Company
-- Alibaba 2020.7 - 2022.7
-- Leetcode 2022.7 - ?
+- [Alibaba](https://alibaba.com) 2020.7 - 2022.7
+- [Leetcode](https://leetcode.com) 2022.7 - ?
 
 # Wechat
 TaoEarth
