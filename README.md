@@ -18,15 +18,17 @@
 - zustand
 - tailwindcss
 - antd
-- materialui
 - prisma
 - docker
 - docker-compose
+- graphql
 - nodejs
 - express
 - pm2
 - prisma
 - nginx
+- caddy
+- slate
 - react-native
 - dart
 - flutter
@@ -40,8 +42,7 @@ https://www.linkedin.com/in/taojun-zhang-711218278
 
 # Company
 - [Alibaba](https://alibaba.com) 2020.7 - 2022.7
-- [Leetcode](https://leetcode.com) 2022.7 - ?
+- [Leetcode](https://leetcode.com) 2022.7 - now
 
 # Wechat
 TaoEarth
-
