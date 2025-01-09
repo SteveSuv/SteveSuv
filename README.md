@@ -1,5 +1,7 @@
+![header](https://github.com/user-attachments/assets/8a92255d-325a-475d-a006-12ac329809ba)
+
 # Who am I
-I am a front-end engineer, currently in Shanghai, graduated in 2020, and used to work at Alibaba.
+I am SteveSuv, a frontend developer, currently in Shanghai, graduated in 2020, and used to work at Alibaba.
 
 # Skill
 #### Basic
@@ -11,7 +13,6 @@ I am a front-end engineer, currently in Shanghai, graduated in 2020, and used to
 - less
 - scss
 - tailwindcss
-- unocss
 - emotion
 - postcss
 #### Framework
@@ -79,8 +80,8 @@ https://www.linkedin.com/in/taojun-zhang-711218278
 - [Leetcode](https://leetcode.com) 2022.7 - now
 
 # Language
-- Chinese (native language)
-- English (CET6)
+- Chinese
+- English
 
 # Wechat
 TaoEarth
