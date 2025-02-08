@@ -70,7 +70,7 @@ I am SteveSuv, a frontend developer, currently in Shanghai, graduated in 2020, a
 - slate
 
 # LinkedIn 
-https://www.linkedin.com/in/taojun-zhang-711218278
+https://www.linkedin.com/in/taojun-zhang-46814a301
 
 # Education
 [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) 2016.8 - 2020.7
