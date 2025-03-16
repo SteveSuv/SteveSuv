@@ -4,7 +4,7 @@
 I am SteveSuv, a frontend developer, currently in Shanghai, graduated in 2020, and used to work at Alibaba.
 
 # Skill
-html,css,js,ts,react,nextjs,remix,vite,tailwindcss,emotion,express,prisma,drizzle...
+html, css, js, ts, react, nextjs, remix, vite, tailwindcss, emotion, express, prisma, drizzle ...
 
 # LinkedIn 
 https://www.linkedin.com/in/taojun-zhang-46814a301
