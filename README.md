@@ -14,7 +14,8 @@ https://www.linkedin.com/in/taojun-zhang-46814a301
 
 # Company
 - [Alibaba](https://alibaba.com) 2020.7 - 2022.7
-- [Leetcode](https://leetcode.com) 2022.7 - now
+- [Leetcode](https://leetcode.com) 2022.7 - 2025.1
+- [ByteDance](https://www.bytedance.com) 2025.4 - now
 
 # Language
 - Chinese
