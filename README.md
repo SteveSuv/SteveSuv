@@ -6,9 +6,6 @@ I am SteveSuv, a frontend developer, currently in Shanghai, graduated in 2020, a
 # Skill
 html, css, js, ts, react, nextjs, remix, vite, tailwindcss, emotion, express, prisma, drizzle ...
 
-# LinkedIn 
-https://www.linkedin.com/in/taojun-zhang-46814a301
-
 # Education
 [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) 2016.8 - 2020.7
 
@@ -16,10 +13,3 @@ https://www.linkedin.com/in/taojun-zhang-46814a301
 - [Alibaba](https://alibaba.com) 2020.7 - 2022.7
 - [Leetcode](https://leetcode.com) 2022.7 - 2025.1
 - [ByteDance](https://www.bytedance.com) 2025.4 - now
-
-# Language
-- Chinese
-- English
-
-# Wechat
-TaoEarth
