@@ -9,7 +9,7 @@ html, css, js, ts, react, nextjs, remix, vite, tailwindcss, emotion, express, pr
 # Education
 [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) 2016.8 - 2020.7
 
-# Company
+# Career
 - [Alibaba](https://alibaba.com) 2020.7 - 2022.7
 - [Leetcode](https://leetcode.com) 2022.7 - 2025.1
 - [ByteDance](https://www.bytedance.com) 2025.4 - now
